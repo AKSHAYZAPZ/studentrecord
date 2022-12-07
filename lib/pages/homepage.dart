@@ -342,7 +342,5 @@ class _HomepageState extends State<Homepage> {
       _numberController.text = documentsnap['phone'].toString();
     }
   }
-  // await _products.add({'name':name,'price':price});
-  // await _products.update({'name':name,'price':price});
-  // await _products.doc(productId).delete();
+
 }
